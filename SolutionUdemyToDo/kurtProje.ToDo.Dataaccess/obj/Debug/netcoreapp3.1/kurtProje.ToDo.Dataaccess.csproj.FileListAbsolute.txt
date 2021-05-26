@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.dll
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.AssemblyInfo.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.deps.json
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.runtimeconfig.json
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.runtimeconfig.dev.json
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.dll
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.pdb
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.pdb
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.csproj.CopyComplete
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.dll
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.pdb
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Dataaccess\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.genruntimeconfig.cache

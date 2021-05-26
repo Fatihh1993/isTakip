@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Business.deps.json
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Business.dll
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Business.pdb
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.dll
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.dll
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Dataaccess.pdb
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.pdb
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Business.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Business.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Business.AssemblyInfo.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Business.csproj.CopyComplete
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Business.dll
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Business\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Business.pdb
