@@ -1,0 +1,37 @@
+﻿@model List<kurtProje.ToDo.Web.Models.MusteriViewModel>
+@{
+    Layout = null;
+}
+
+<DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-witdh" />
+        <title>Index</title>
+    </head>
+    <body>
+        <p>burası index</p>
+        <table>
+            <tr>
+                <th>ViewBag.Isim</th>
+                <td>@ViewBag.Isim</td>
+            </tr>
+            <tr>
+                <th>ViewData["Isim"]</th>
+                <td>@ViewData["Isim"]</td>
+            </tr>
+            <tr>
+                <th>TempData[Isim]</th>
+                <td>@TempData["Isim"]</td>
+            </tr>
+        </table>
+
+        <h4>modelden gelen data</h4>
+        @foreach (var item in Model)
+        {
+            <p>@item.Ad</p>
+
+        }
+    </body>
+</html>

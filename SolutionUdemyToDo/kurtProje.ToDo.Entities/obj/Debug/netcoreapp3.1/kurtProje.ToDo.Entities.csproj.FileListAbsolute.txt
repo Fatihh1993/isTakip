@@ -1,7 +1,6 @@
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Entities\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.deps.json
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Entities\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.dll
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Entities\bin\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.pdb
-C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Entities\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.csprojAssemblyReference.cache
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Entities\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Entities\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.AssemblyInfo.cs
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Entities\obj\Debug\netcoreapp3.1\kurtProje.ToDo.Entities.csproj.CoreCompileInputs.cache
