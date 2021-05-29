@@ -1,37 +1,38 @@
-﻿@model List<kurtProje.ToDo.Web.Models.MusteriViewModel>
+﻿@model List<MusteriViewModel>
 @{
-    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<DOCTYPE html>
+@*@Html.Partial("_Kategoriler")*@
 
-    <html>
-    <head>
-        <meta name="viewport" content="width=device-witdh" />
-        <title>Index</title>
-    </head>
-    <body>
-        <p>burası index</p>
-        <table>
-            <tr>
-                <th>ViewBag.Isim</th>
-                <td>@ViewBag.Isim</td>
-            </tr>
-            <tr>
-                <th>ViewData["Isim"]</th>
-                <td>@ViewData["Isim"]</td>
-            </tr>
-            <tr>
-                <th>TempData[Isim]</th>
-                <td>@TempData["Isim"]</td>
-            </tr>
-        </table>
+<partial name="_Kategoriler" />
 
-        <h4>modelden gelen data</h4>
-        @foreach (var item in Model)
-        {
-            <p>@item.Ad</p>
+<p>burası index</p>
 
-        }
-    </body>
-</html>
+<a asp-action="Index" asp-controller="Home" asp-area="" asp-route-id="1">Link</a>
+
+<kategoriList></kategoriList>
+
+<fatih></fatih>
+
+<table>
+    <tr>
+        <th>ViewBag.Isim</th>
+        <td>@ViewBag.Isim</td>
+    </tr>
+    <tr>
+        <th>ViewData["Isim"]</th>
+        <td>@ViewData["Isim"]</td>
+    </tr>
+    <tr>
+        <th>TempData[Isim]</th>
+        <td>@TempData["Isim"]</td>
+    </tr>
+</table>
+
+<h4>modelden gelen data</h4>
+@foreach (var item in Model)
+{
+    <p>@item.Ad</p>
+
+}

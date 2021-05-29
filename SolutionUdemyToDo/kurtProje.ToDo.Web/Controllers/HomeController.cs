@@ -24,5 +24,12 @@ namespace kurtProje.ToDo.Web.Controllers
 
                });
         }
+
+        public IActionResult Sonuc()
+        {
+            return View();
+        }
+
+
     }
 }
