@@ -150,3 +150,9 @@ C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcor
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Kategoriler.cshtml.g.cs
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Urunler\Default.cshtml.g.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Urunler\Yeni.cshtml.g.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\bin\Debug\netcoreapp3.1\package.json
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs

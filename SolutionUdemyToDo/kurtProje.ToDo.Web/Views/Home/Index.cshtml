@@ -7,9 +7,17 @@
 
 <partial name="_Kategoriler" />
 
-<p>burası index</p>
+<p class="text-danger lead">
+    burası index
+</p>
 
-<a asp-action="Index" asp-controller="Home" asp-area="" asp-route-id="1">Link</a>
+
+
+@await Component.InvokeAsync("Urunler")
+
+
+
+@*<a asp-action="Index" asp-controller="Home" asp-area="" asp-route-id="1">Link</a>
 
 <kategoriList></kategoriList>
 
@@ -28,11 +36,11 @@
         <th>TempData[Isim]</th>
         <td>@TempData["Isim"]</td>
     </tr>
-</table>
+</table>*@
 
-<h4>modelden gelen data</h4>
+@*<h4>modelden gelen data</h4>
 @foreach (var item in Model)
 {
     <p>@item.Ad</p>
 
-}
+}*@

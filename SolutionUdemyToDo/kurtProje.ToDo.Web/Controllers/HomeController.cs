@@ -14,17 +14,9 @@ namespace kurtProje.ToDo.Web.Controllers
             ViewBag.Isim = "Fatih";
             TempData["Isim"] = "Fatih";
             ViewData["Isim"] = "Fatih";
-            return View(new List<MusteriViewModel>()  {
-                new MusteriViewModel(){Ad="Fatih1"},
-                new MusteriViewModel(){Ad="Fatih1"},
-                new MusteriViewModel(){Ad="Fatih1"},
-                new MusteriViewModel(){Ad="Fatih1"},
-                new MusteriViewModel(){Ad="Fatih1"},
-
-
-               });
+            return View();
         }
-
+        [Route("kisiler/[action]")]
         public IActionResult Sonuc()
         {
             return View();
