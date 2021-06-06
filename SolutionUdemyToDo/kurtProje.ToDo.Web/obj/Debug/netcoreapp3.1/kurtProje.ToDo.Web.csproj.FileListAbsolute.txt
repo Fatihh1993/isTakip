@@ -156,3 +156,6 @@ C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\bin\Debug\netcor
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\bin\Debug\netcoreapp3.1\package-lock.json
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\bin\Debug\netcoreapp3.1\package.json
 C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\KayitOl.cshtml.g.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\PageError.cshtml.g.cs
+C:\Users\USER\source\repos\SolutionUdemyToDo\kurtProje.ToDo.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs

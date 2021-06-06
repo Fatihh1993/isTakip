@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Hsm6yHhH9qXwDa92PiXkc/kbrJ7hNRYuNLemmEYUJJ6p62BFW7dVoqLIyDigkaHbBH9K9jcvO1Uf0p7IVc/yxA==",
+  "dgSpecHash": "nO3EMIG6FLSI+bnBSl+Jq8tUHBxluS+a3Sn7wsGF/6yIXqNiQ16L17UdauuOcmYIQLx0ZTRY3zLPHOOsHxzgRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\source\\repos\\SolutionUdemyToDo\\kurtProje.ToDo.Entities\\kurtProje.ToDo.Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nlog.config\\4.7.10\\nlog.config.4.7.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nlog.schema\\4.7.10\\nlog.schema.4.7.10.nupkg.sha512"
+  ],
   "logs": []
 }

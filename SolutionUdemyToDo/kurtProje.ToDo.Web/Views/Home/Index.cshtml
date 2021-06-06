@@ -16,31 +16,35 @@
 @await Component.InvokeAsync("Urunler")
 
 
+<div class="alert alert-light lead">
+    @ViewBag.Cookie
+</div>
+
 
 @*<a asp-action="Index" asp-controller="Home" asp-area="" asp-route-id="1">Link</a>
 
-<kategoriList></kategoriList>
+    <kategoriList></kategoriList>
 
-<fatih></fatih>
+    <fatih></fatih>
 
-<table>
-    <tr>
-        <th>ViewBag.Isim</th>
-        <td>@ViewBag.Isim</td>
-    </tr>
-    <tr>
-        <th>ViewData["Isim"]</th>
-        <td>@ViewData["Isim"]</td>
-    </tr>
-    <tr>
-        <th>TempData[Isim]</th>
-        <td>@TempData["Isim"]</td>
-    </tr>
-</table>*@
+    <table>
+        <tr>
+            <th>ViewBag.Isim</th>
+            <td>@ViewBag.Isim</td>
+        </tr>
+        <tr>
+            <th>ViewData["Isim"]</th>
+            <td>@ViewData["Isim"]</td>
+        </tr>
+        <tr>
+            <th>TempData[Isim]</th>
+            <td>@TempData["Isim"]</td>
+        </tr>
+    </table>*@
 
 @*<h4>modelden gelen data</h4>
-@foreach (var item in Model)
-{
-    <p>@item.Ad</p>
+    @foreach (var item in Model)
+    {
+        <p>@item.Ad</p>
 
-}*@
+    }*@

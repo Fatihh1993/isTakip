@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="NLog" Version="4.7.10" />
+    <PackageReference Include="NLog.Config" Version="4.7.10" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\kurtProje.ToDo.Dataaccess\kurtProje.ToDo.Dataaccess.csproj" />
   </ItemGroup>
 

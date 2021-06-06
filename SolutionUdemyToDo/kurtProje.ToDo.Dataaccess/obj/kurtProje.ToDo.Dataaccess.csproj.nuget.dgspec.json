@@ -67,6 +67,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.6, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.10, )"
             }
           },
           "imports": [
@@ -127,6 +135,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

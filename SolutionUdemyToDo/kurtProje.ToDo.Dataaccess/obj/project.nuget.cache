@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2fPCTwKiXE5Nu4yI3xkObDGGTL9AhlN7C/K6Wva2rdBPW8M9+s/D64DY+RqMm5k1JXHTeAZDBHH8qh4ftZ+Kbg==",
+  "dgSpecHash": "UBXTj7qZCPss4nyBSkXuBwsaHqD8zcLoQmF4gHWtp0uNUEMuf353DL5dcHC1Than3TBNhUK8fFVFSm7GIsldxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\source\\repos\\SolutionUdemyToDo\\kurtProje.ToDo.Dataaccess\\kurtProje.ToDo.Dataaccess.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,9 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nlog.config\\4.7.10\\nlog.config.4.7.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nlog.schema\\4.7.10\\nlog.schema.4.7.10.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
